@@ -6,6 +6,7 @@ A lightweight, fully 3D-printable rack-and-pinion gripper that gives the SO-101 
 
 ## Specifications
 
+- **Weight**: ~165 g
 - **Opening Width**: 105 mm
 - **Forward Reach**: 72 mm
 - **Design**: Rack-and-pinion mechanism
