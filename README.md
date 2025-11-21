@@ -4,6 +4,12 @@
 
 A lightweight, fully 3D-printable rack-and-pinion gripper that gives the SO-101 arm an ALOHA-style parallel jaw with a 105 mm opening and 72 mm forward reach for real-world manipulation.
 
+## Demo
+
+https://github.com/user-attachments/assets/demo.mp4
+
+*Watch the SO-101 Parallel Gripper in action*
+
 ## Specifications
 
 - **Weight**: ~165 g
