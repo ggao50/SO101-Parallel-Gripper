@@ -6,7 +6,7 @@ A lightweight, fully 3D-printable rack-and-pinion gripper that gives the SO-101 
 
 ## Demo
 
-![SO-101 Parallel Gripper Demo](demo.gif)
+![SO-101 Parallel Gripper Demo](gripper.gif)
 
 *Watch the SO-101 Parallel Gripper in action*
 
